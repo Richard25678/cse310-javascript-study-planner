@@ -1,0 +1,16 @@
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Dependency and generated output (not used by this project)
+node_modules/
+dist/
+coverage/
